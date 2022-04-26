@@ -1,4 +1,4 @@
-# `SPRING BOOT EXAMPLE`
+# `SPRING BOOT EXAMPLE - REDIS PUBSUB`
 ### `By PT Akarinti Teknologi`
 
 `JAVA Version: 1.8`
